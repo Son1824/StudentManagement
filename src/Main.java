@@ -5,9 +5,8 @@ public class Main {
     private static ArrayList<Student> listOfStudent = new ArrayList<>();
     private static Scanner scanner = new Scanner(System.in);
 
-    public static void main(String[] args) {
+    Apublic static void main(String[] args) {
         boolean running = true;
-
         while (running) {
             System.out.println("-----Student Management-----");
             System.out.println("---1. Enter student list");
